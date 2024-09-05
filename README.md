@@ -1,4 +1,8 @@
 ## Hi there 👋
+## My name is Dimitri Stassinos
+## I am interested in machine learning and web design
+## I am pursuing a degree in Computer Engineering at SDSU
+## I am interested in working on projects that academically interest me
 
 <!--
 **dsta33/dsta33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
